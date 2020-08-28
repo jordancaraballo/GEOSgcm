@@ -1,7 +1,9 @@
 # GEOS GCM Fixture
+
 [![CircleCI](https://circleci.com/gh/GEOS-ESM/GEOSgcm.svg?style=svg)](https://circleci.com/gh/GEOS-ESM/GEOSgcm)
 
-[![CodeBuild] (https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiblY5cXhEZ2p3bkhvVC9KSkFaK3B0NlpRNVdBQXZsNGlJRlp1dTZGWitxa1o5ZlZaNHJoWUE3bXgvNFU1QzRDOUJ1M0NvdzRiVkpOdVBLcExoQTNTTjBrPSIsIml2UGFyYW1ldGVyU3BlYyI6ImhKT2E1RXhyR2VkYkx4WWIiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=master)
+[CodeBuild] (https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiblY5cXhEZ2p3bkhvVC9KSkFaK3B0NlpRNVdBQXZsNGlJRlp1dTZGWitxa1o5ZlZaNHJoWUE3bXgvNFU1QzRDOUJ1M0NvdzRiVkpOdVBLcExoQTNTTjBrPSIsIml2UGFyYW1ldGVyU3BlYyI6ImhKT2E1RXhyR2VkYkx4WWIiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=master)
+
 
 ## How to build GEOS GCM
 
