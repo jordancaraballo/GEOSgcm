@@ -1,7 +1,7 @@
 env:
   local: ./@env
   #remote: ../ESMA_env.git
-  remote: GEOS-ESM/ESMA_env.git
+  remote: https://github.com/GEOS-ESM/ESMA_env.git
   tag: v2.1.6
   develop: main
 
