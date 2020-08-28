@@ -22,12 +22,12 @@ phases:
     finally:
       - echo "Mepo clone external repos" 
   build:
-    commands:
-      - mkdir build
-      - cd build
-      - cmake .. -DBASEDIR=$BASEDIR/Linux -DCMAKE_Fortran_COMPILER=gfortran -DCMAKE_BUILD_TYPE=Debug
-      - cd build
-      - make -j"$(nproc)" install
+    commands: |
+      mkdir build
+      cd build
+      cmake .. -DBASEDIR=$BASEDIR/Linux -DCMAKE_Fortran_COMPILER=gfortran -DCMAKE_BUILD_TYPE=Debug
+      cd build
+      make -j"$(nproc)" install
     finally:
       - echo "Build phase"
   post_build:
