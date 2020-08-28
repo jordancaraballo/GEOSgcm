@@ -7,7 +7,8 @@ env:
 
 cmake:
   local: ./@cmake
-  remote: ../ESMA_cmake.git
+  #remote: ../ESMA_cmake.git
+  remote: https://github.com/GEOS-ESM/ESMA_cmake.git
   tag: v3.1.3
   develop: develop
 
